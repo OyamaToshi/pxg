@@ -1,0 +1,17 @@
+PATCH 08/10
+
+CORREÇÕES DE BUGS
+
+•    Corrigido um bug em que Pokémon que possuem a passiva Tri-Vision estavam consumindo focus em seus ataques básicos;
+•    Foi adicionado um bloqueio para recursos de profissão próximos à fazenda de Pallet;
+•    Corrigido bug no Slowking da The Chosen One Quest que impossibilitava o jogador de descer no Mysterious Shrine em certas situações;
+•    Corrigido um bug em que o Mega Salamence não estava concedendo a experiência adequada ao ser derrotado;
+•    Corrigido um erro no diálogo do NPC Daisy Oak referente ao NPC Lilly;
+•    Corrigido um erro no diálogo do NPC Big Ben em Viridian;
+•    Corrigido um bug em que Pokémon tomavam dano debaixo d'água com algum ataque de invulnerabilidade;
+•    Atualizada a descrição do ataque Avalanche na Pokédex para informar sobre seu efeito de Knockback (exclusivo de PvP);
+•    Corrigida a parte da explicação do NPC Daisy Oak no qual era informado incorretamente a quantidade de métodos de usar revives;
+•    Corrigido um bug no NPC Rosa do Secret Lab envolvendo a troca de Nightmare Tokens por um Rescue Kit;
+•    Corrigido um erro nas descrições do ataque Stampede, no qual informava que o mesmo causava LENTIDÃO no lugar de PARALISIA;
+•    Adicionada a habilidade Rock Smash na versão shiny do Pokémon Glaceon para ficar equivalente à versão comum;
+•    Agora só é possível acessar a missão do NPC Buck caso o personagem esteja carregando pelo menos um Pokémon.
